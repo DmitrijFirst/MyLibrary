@@ -1,0 +1,268 @@
+{
+  "bookLists": [
+    {
+      "id": 1,
+      "title": "Вурдалак",
+      "genre": "Детективы",
+      "autor": "Сергей Пономар",
+      "language": "Русский",
+      "description": "Начало ХХ века. Чернигов накрыла волна странных исчезновений: пропадают молодые люди, а их тела находят обескровленными. От хирурга Куроедова молодой врач Владимир Шульженко узнает древнюю легенду о черниговском упыре, обозном Дунине-Борковском. Тогда, пару веков назад, город был повержен в панику и ужас. Что, если история повторяется? Но следователь Катасонов не верит в мистику. Тогда Шульженко начинает собственное расследование. Он подозревает, что и сам следователь не так честен, как кажется. А тем временем появляются новые жертвы. Монстр из преданий снова вышел на охоту. Или же кто-то просто прячется за маской упыря…"
+    },
+    {
+      "id": 2,
+      "title": "Солярис",
+      "genre": "Фантастика",
+      "autor": "Станислав Лем",
+      "language": "Русский",
+      "description": "Издание 1987 года. Сохранность отличная. В этот том Библиотеки фантастики вошли два романа Станислава Лема: `Солярис` и `Магелланово Облако`. Перевод с польского Г.Гудимовой, В.Перельман и Л.Яковлева."
+    },
+    {
+      "id": 3,
+      "title": "Дюна ",
+      "genre": "Фантастика",
+      "autor": "Фрэнк Герберт",
+      "language": "Русский",
+      "description": "Фрэнк Герберт (1920—1986) успел написать много, но в истории остался прежде всего как автор эпопеи \"Дюна\" - возможно, самой прославленной фантастической саги нашего столетия, саги, переведенной на десятки языков и приобретшей по всему миру миллионы поклонников. Самый авторитетный журнал научной фантастики `Локус` попросту признал `Дюну`, первый роман эпопеи о `песчаной планете`, лучшим научно-фантастическим романом всех времен и народов. В `Дюне` Фрэнку Герберту удалось совершить невозможное — создать своеобразную `хронику далекого будущего`. И не было за всю историю мировой фантастики картины грядущего более яркой, более зримой, более мощной и оригинальной. Цикл `Дюна` был и остается уникальным явлением — самым грандиозным, самым дерзким, самым масштабным творением за всю историю мировой фантастики."
+    },
+    {
+      "id": 4,
+      "title": "Зелёная миля",
+      "genre": "Детективы",
+      "autor": "Стивен Кинг",
+      "language": "Русский",
+      "description": "Стивен Кинг приглашает читателей в жуткий мир тюремного блока смертников, откуда уходят, чтобы не вернуться, приоткрывает дверь последнего пристанища тех, кто преступил не только человеческий, но и Божий закон. По эту сторону электрического стула нет более смертоносного местечка! Ничто из того, что вы читали раньше, не сравнится с самым дерзким из ужасных опытов Стивена Кинга — с историей, что начинается на Дороге Смерти и уходит в глубины самых чудовищных тайн человеческой души…\nГлубокий старик Пол Эджкомб, бывший тюремный надзиратель над смертниками, вспоминает необыкновенные события особенной в его жизни осени 1932 года, когда в нее вошел странный чернокожий гигант Джон Коффи.\nВ 1999 году по роману был снят одноимённый фильм."
+    },
+    {
+      "id": 5,
+      "title": "Крестный отец",
+      "genre": "Детективы",
+      "autor": "Марио Пьюзо",
+      "language": "Русский",
+      "description": "«Крестный отец» – классический роман о жизни одного из могущественных преступных синдикатов Америки – мафиозного клана дона Корлеоне. Написанный с потрясающей достоверностью, он позволяет читателю без риска для жизни заглянуть в святая святых мафии.\nРоман Пьюзо лег в основу знаменитого фильма, снятого Фрэнсисом Фордом Копполой. Эта картина получила девятнадцать различных наград и по праву считается одной из лучших в мировом кинематографе."
+    },
+    {
+      "id": 6,
+      "title": "Книга кладбища",
+      "genre": "Детективы",
+      "autor": "ГАЙМАН Н.",
+      "language": "Английский",
+      "description": "When a baby escapes a murderer intent on killing the entire family, who would have thought it would find safety and security in the local graveyard? Brought up by the resident ghosts, ghouls and spectres, Bod has an eccentric childhood learning about life from the dead. But for Bod there is also the danger of the murderer still looking for him — after all, he is the last remaining member of the family. This is a stunningly original novel deftly constructed over eight chapters, featuring every second year of Bod's life, from babyhood to adolescence. Will Bod survive to be a man?"
+    },
+    {
+      "id": 7,
+      "title": "Девушка на поезде",
+      "genre": "Детективы",
+      "autor": "Хокинс П.",
+      "language": "Английский",
+      "description": "Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She's even started to feel like she knows the people who live in one of the houses. 'Jess and Jason', she calls them. Their life — as she sees it — is perfect. If only Rachel could be that happy. And then she sees something shocking. It's only a minute until the train moves on, but it's enough. Now everything's changed. Now Rachel has a chance to become a part of the lives she's only watched from afar. Now they'll see; she's much more than just the girl on the train"
+    },
+    {
+      "id": 8,
+      "title": "Террор",
+      "genre": "Ужасы",
+      "autor": "Дэн Симмонс",
+      "language": "Русский",
+      "description": "В 1845 году экспедиция под командованием опытного полярного исследователя сэра Джона Франклина отправляется на судах \"Террор\" и \"Эребус\" к северному побережью Канады на поиск Северо-Западного прохода из Атлантического океана в Тихий - и бесследно исчезает. Поиски ее затянулись на несколько десятилетий, сведения о ее судьбе собирались буквально по крупицам, и до сих пор картина происшедшего пестрит белыми пятнами. Дэн Симмонс, знаменитый автор \"Гипериона\" и \"Эндимиона\", \"Илиона\" и \"Олимпа\", \"Песни Кали\" и \"Темной игры смерти\", предлагает свою версию событий: главную угрозу для экспедиции составляли не сокрушительные объятия льда, не стужа с вьюгой и не испорченные консервы - а неведомое исполинское чудовище, будто сотканное из снега и полярного мрака."
+    },
+    {
+      "id": 9,
+      "title": "Отель «Оюнсу»",
+      "genre": "Ужасы",
+      "autor": "Сергей Тармашев",
+      "language": "Русский",
+      "description": "Они - \"золотая молодежь\", будущие хозяева жизни, - решают встретить Новый год нетривиально. И им это удается. Эко-отель вдали от цивилизации, восхитительные виды, необычная гора неподалеку, напоминающая древний зиккурат - когда-то здесь добывали мрамор, но потом почему-то забросили месторождение. Все так необычно, так свежо и интересно! Но почему егерь, у которого они узнавали дорогу, сказал, что в этих местах никогда не было модного отеля? Почему единственный служащий ведет себя так странно? Впрочем, какая разница! Ничто не омрачит их праздник… Поначалу. Потому что это не их праздник. Эти места прокляты. И вот теперь молодые люди случайно потревожили древнее зло. Каждого ждет кара за грехи далеких предков. Чужие грехи. Тени прошлого не ведают жалости, и столичные гости обречены. А может быть, не только они? Что или кого они пробудили к жизни?"
+    },
+    {
+      "id": 10,
+      "title": "Усмішка",
+      "genre": "Фантастика",
+      "autor": "Рей Бредбері",
+      "language": "Украинский",
+      "description": "Рей Бредбері - відомий американський письменник-фантаст. Створив більше, ніж 800 творів різних жанрів, серед яких принесли йому славу \"451 градус за Фаренгейтом\", \"Вино з кульбаб\". Рей Бредбері зрозумів своє покликання - бути письменником - ще дитиною. В молодості він працював продавцем періодики, незабаром жив за рахунок дружини, поки не була видана його книга «Марсіанські хроніки». Після виходу цієї і наступних книг до письменника прийшла світова слава. У творах Рея Бредбері гармонійно поєднуються захоплюючий сюжет і філософські висновки про життєві явища. Письменник передбачив появу багатьох речей в сучасному житті: гаджети, одяг для тварин ..."
+    },
+    {
+      "id": 11,
+      "title": "Темний ліс",
+      "genre": "Фантастика",
+      "autor": "Лю Цисінь",
+      "language": "Украинский",
+      "description": "Людство спостигла рукотворна криза першого контакту з позаземною цивілізацією, спровокувавши масову зневіру, занепадництво і ескалацію багатьох застарілих конфліктів. Щоб віднайти вихід із глухого кута, доведеться зазирнути вглиб Усесвіту і зрозуміти Істину, а для цього, хай як дивно, зазирнути вглибину себе самих. Чи впорається людство з викликами новітнього часу, чи все ж перетвориться на ще одну статистичну одиницю в історії Всесвіту, що триває вже мільярди років?"
+    },
+    {
+      "id": 12,
+      "title": "Властелин Колец ",
+      "genre": "Фантастика",
+      "autor": "Толкиен Дж. Р",
+      "language": "Английский",
+      "description": "Not just revolutionary because it was groundbreaking, The Lord of the Rings is timeless because it's the product of a truly top-shelf mind. Tolkien was a distinguished linguist and Oxford scholar of dead languages, with strong ideas about the importance of myth and story and a deep appreciation of nature. His epic, 10 years in the making, recounts the Great War of the Ring and the closing of Middle-Earth's Third Age, a time when magic begins to fade from the world and men rise to dominance. Tolkien carefully details this transition with tremendous skill and love, creating in The Lord of the Rings a universal and all-embracing tale, a justly celebrated classic."
+    },
+    {
+      "id": 13,
+      "title": "Небрежные секунды",
+      "genre": "Ужасы",
+      "autor": "У. Джеймс",
+      "language": "Английский",
+      "description": "Who Wants Some of Wrath’s Sloppy Seconds? …\nWho wouldn’t? Each year at the World Horror Convention, the most anticipated event is the Gross-Out Contest, where authors stand up in front of everyone and deliver some of the most disturbing, gut-wrenching tales anyone has ever heard.\nWrath James White’s stories are among the best of them. Now, we present his stories for the first time in print — uncut.\nHere are his four stories from previous years, as well as his entry for the 2008 WHC.\nBut there’s more! We have a bonus story that is “one of the most grotesque and horrific murder/rape/revenge stories I have ever written.”"
+    },
+    {
+      "id": 14,
+      "title": "Звонок",
+      "genre": "Ужасы",
+      "autor": "Кодзи Судзуки",
+      "language": "Русский",
+      "description": "Роман японского писателя Кодзи Судзуки многим читателям известен по одноименному фильму ужасов.\nЭта драматическая история начинается с того, что в один день и час при странных обстоятельствах умирают четверо молодых людей..."
+    },
+    {
+      "id": 15,
+      "title": "Сяйво",
+      "genre": "Ужасы",
+      "autor": "Стивен Кинг",
+      "language": "Украинский",
+      "description": "У цього шикарного готелю в горах — лиха слава. Колись там сталася страшна трагедія. Тому взимку в його стінах лишаються тільки привиди... Але цього разу опинитися тут не пощастило одній звичайній родині — батько Денні найнявся доглядачем пансіонату. Саме в готелі п’ятирічний Денні дізнався, що він «сяє»: хлопчик може бачити справжніх його мешканців і знає, що ховається за дверима кожного із сотні порожніх номерів... Але йому відкриваються не тільки жахливі події, які сталися тут у минулому. Він може передбачити, яка страшна небезпека чекає на його близьких."
+    },
+    {
+      "id": 16,
+      "title": "Пригоди Робинзона Крузо",
+      "genre": "Приключения",
+      "autor": "Дефо Даниэль",
+      "language": "Украинский",
+      "description": "Деніел Дефо написав три книги про Робінзона Крузо (дві перші були видані 1719-го року, а третя - 1720-го). Найбільш відома перша - про пригоди Робінзона на безлюдному острові. Тут представлено другий твір трилогії в українському перекладі Леся Герасимчука. В ньому йдеться про довгі мандри Робінзона різними морями та країнами. В останньому розділі, наприклад, Робінзон не тільки подорожує суворими теренами Московії, але й допомагає репресованому російською владою росіянинові втекти зі сибірського заслання до Європи..."
+    },
+    {
+      "id": 17,
+      "title": "Юрская война",
+      "genre": "Приключения",
+      "autor": "Деннехи Джон В.",
+      "language": "Английский",
+      "description": "From the author of Pacific Rising.\nJurassic War is an action-packed novel of special operations during WWII in the Pacific Theater. U.S. Marines land on a remote atoll to carry out a seek and destroy mission. They encounter Japanese infantrymen, and the Raiders must also overcome deadly indigenous wildlife. Dinosaurs have not become extinct in all parts of the uncharted world. Ripped from historical accounts of the Raid on Makin Island, this book provides a close examination of Raider training and tactics. A man verse man, and human verse beast struggle, Jurassic War opens with force and steamrolls to the ending like a locomotive.\nThis novel by John W. Dennehy follows great critical reception for his prior books Clockwork Universe and Pacific Rising. Many of his stories have been featured in leading pulp magazines, such as Crimson Streets, Disturbed Digest, Beyond Science Fiction, SQ Mag, and Weirdbook. His story “Ancient Ruins” was published in SNAFU: Wolves at the Door. The SNAFU anthology series has been commended by Tim Miller, director of Deadpool and creator of Love, Death + Robots, which features a few shorts based upon stories in the SNAFU series."
+    },
+    {
+      "id": 18,
+      "title": "Сорок пять",
+      "genre": "Приключения",
+      "autor": "Дюма Александр",
+      "language": "Украинский",
+      "description": "Историко-приключенческий роман, завершающий трилогию А.Дюма, в которую входят романы «Королева Марго» и «Графиня де Монсоро». В сюжете романа история борьбы Генриха Наваррского за французский престол и месть Дианы де Монсоро герцогу Анжуйскому."
+    },
+    {
+      "id": 19,
+      "title": "В стране снежных бурь",
+      "genre": "Приключения",
+      "autor": "Моуэт Фарли",
+      "language": "Русский",
+      "description": "В повести рассказывается о том, как индейцы и эскимосы спасли от верной гибели двух канадских мальчиков - индейца и англичанина."
+    },
+    {
+      "id": 20,
+      "title": "Восход",
+      "genre": "Приключения",
+      "autor": "Хантер Эрин",
+      "language": "Английский",
+      "description": "Erin Hunter's #1 nationally bestselling Warriors series continues with the sixth book in the Power of Three series!\n\nThe final book in this third series, Warriors: Power of Three #6: Sunrise, brings more adventure, intrigue, and thrilling battles to the epic world of the warrior Clans.\n\nThe secret of Hollyleaf's, Jayfeather's, and Lionblaze's true identities has been revealed, but one shocking question remains unanswered. Now Clanmate will turn upon Clanmate, and one more warrior may be lost forever…"
+    },
+    {
+      "id": 21,
+      "title": "Никогда не ешь  один",
+      "genre": "Бизнес_книги",
+      "autor": "Феррацци Кейт",
+      "language": "Украинский",
+      "description": "Do you want to get ahead in life? climb the ladder to success? master networker keith ferrazzi says the secret is in reaching out to others - in using the power of relationships so that everyone wins. In this classic, global bestseller ferrazzi takes you through timeless strategies used by the world's most connected people, from bill clinton to the dalai lama. Distinguishing genuine relationship-building from crude glad-handing, he draws out practical tips and engaging advice that can transform your network, career and life: don't keep score, harness social media and, of course, never eat alone."
+    },
+    {
+      "id": 22,
+      "title": "Маркетинг в культурах",
+      "genre": "Бизнес_книги",
+      "autor": "Уильямс Д.",
+      "language": "Английский",
+      "description": "The authors of this text show how we can understand different markets and customer needs in a wide range of cultural contexts. They also show that culture is the dominant factor that pervades all relationships and behaviors."
+    },
+    {
+      "id": 23,
+      "title": "Деньги, успех и Вы",
+      "genre": "Бизнес_книги",
+      "autor": "Кехо Джон",
+      "language": "Русский",
+      "description": "Книга Джона Кехо \"Деньги, успех и Вы\" посвящается психологическим аспектам достижения успеха в любом бизнесе. Вы знаете, как для этого надо действовать? Автор показывает широкому кругу читателей , как для этого нужно думать!"
+    },
+    {
+      "id": 24,
+      "title": "Выгорание",
+      "genre": "Бизнес_книги",
+      "autor": "Нагоски Эмили",
+      "language": "Русский",
+      "description": "Эмили Нагоски и ее сестра Амелия обращаются к теме выгорания у женщин. В попытках соответствовать стандартам внешности и поведения, повсюду успевать и быть при этом милыми женщины попадают в замкнутый круг бесконечных стрессов.\nИз этой книги вы узнаете, что наука говорит о стрессе и способах борьбы с ним, научитесь не поддаваться стереотипам, заботиться о себе и жить ради собственных, а не чужих важных целей.\nНа русском языке публикуется впервые"
+    },
+    {
+      "id": 25,
+      "title": "О мой блог!",
+      "genre": "Бизнес_книги",
+      "autor": "Шуст Анна",
+      "language": "Русский",
+      "description": "Эта книга будет полезна тем, кто ведет блоги и хочет, чтобы их посты попадали в цель. Ответы на часто задаваемые вопросы и множество полезных советов от профи. Простые и эффективные упражнения после каждой главы помогут отрабатывать все приемы."
+    },
+    {
+      "id": 26,
+      "title": "Зроби це зараз",
+      "genre": "Бизнес_книги",
+      "autor": "Трейси Брайан",
+      "language": "Украинский",
+      "description": "«Дякую, що ви обрали цю книжку. Сподіваюся, подані в ній ідеї допоможуть вам так само, як допомогли мені та тисячам інших людей. Чесно кажучи, я маю надію, що вона, ця книжка, взагалі здатна назавжди змінити ваше життя.\nДля всіх справ часу ніколи не буває досить. Ви буквально потопаєте в океані справ: різного роду обов’язках, проектах, стосах журналів та книжок, які прочитаєте, коли до них усе ж таки дійдуть руки.\nПроте факт залишається фактом: руки у вас до них не дійдуть ніколи. Усіх справ не переробити. Ви ніколи не наблизитесь до отих книжок, журналів і відпочинку, про який мрієте…»"
+    },
+    {
+      "id": 27,
+      "title": "Мудакам тут не місце",
+      "genre": "Бизнес_книги",
+      "autor": "Саттон Роберт",
+      "language": "Украинский",
+      "description": "Хто такі мудаки і що вони роблять на вашій роботі? Як виявити мудака і поставити його на місце? Саттон наводить результати досліджень, які свідчать про те, що мудаки на робочу місці не просто принижують колег, негативно впливають на їхню самооцінку, а ще й приносять компанії фінансові збитки. Як запровадити правило «мудакам тут не місце» у вашій компанії і як самому не перетворитися на покидька — просто і лаконічно розповість автор."
+    },
+    {
+      "id": 28,
+      "title": "Беглянка в космосе",
+      "genre": "Любовные_романы",
+      "autor": "Ледовская Светлана",
+      "language": "Русский",
+      "description": "Что делать девушке, если ее преследуют и хотят сделать рабыней? Бежать и прятаться. В этом враждебном мире, где ты добыча, нужен нож и сильный мужчина. Оружие у меня есть. А в холодном космосе встретился и тот, от вида которого мое сердце стучит чаще. Мрачный капитан чужого корабля может оказаться тем, от кого я бежала. Я не хочу обзавестись хозяином. Да и он вовсе не готов к такой как я. Нам двоим придется поменять планы."
+    },
+    {
+      "id": 29,
+      "title": "Буду твоей тенью",
+      "genre": "Любовные_романы",
+      "autor": "Царюк Валерия",
+      "language": "Русский",
+      "description": "Я Белова Мария Александровна, и я призрак. Год назад меня застрелили в новом модном клубе города. И теперь меня не существует. Лишь \"Свидетельство о рождении\" и \"Свидетельство о смерти\" напоминают о моей непродолжительной жизни. Но все не так уж и плохо, если не цепляться за любимых людей из прошлого. Они мой якорь, который не дает двигаться дальше. А он, случайный призрак, который пытается вытащить меня из трясины. Но чье притяжение окажется сильнее? Живого Константина или мертвого Никиты?"
+    },
+    {
+      "id": 30,
+      "title": "Тест невесты",
+      "genre": "Любовные_романы",
+      "autor": "Хоанг Хелен",
+      "language": "Английский",
+      "description": "Khai Diep has no feelings. Well, he feels irritation when people move his things or contentment when ledgers balance down to the penny, but not big, important emotions — like grief. And love. He thinks he’s defective. His family knows better — that his autism means he just processes emotions differently. When he steadfastly avoids relationships, his mother takes matters into her own hands and returns to Vietnam to find him the perfect bride.\n\nAs a mixed-race girl living in the slums of Ho Chi Minh City, Esme Tran has always felt out of place. When the opportunity arises to come to America and meet a potential husband, she can’t turn it down, thinking this could be the break her family needs. Seducing Khai, however, doesn’t go as planned. Esme’s lessons in love seem to be working…but only on herself. She’s hopelessly smitten with a man who’s convinced he can never return her affection.\n\nWith Esme’s time in the United States dwindling, Khai is forced to understand he’s been wrong all along. And there’s more than one way to love."
+    },
+    {
+      "id": 31,
+      "title": "Лолита",
+      "genre": "Любовные_романы",
+      "autor": "Лихберг Хайнц фон",
+      "language": "Английский",
+      "description": "In a 1916 story by Heinz von Lichberg, a man falls in love with his landlady’s daughter—and her name is Lolita.\nIn 1955 the writer Vladimir Nabokov became world famous with the novel Lolita, the story of a stormy obsession with a nymph that leads a man to his downfall. The work immediately became a contemporary classic.\nHowever, recently it has been discovered that, almost forty years before, a dark German writer, Heinz von Lichberg, had already written and published a story entitled Lolita, in which a teenager from Alicante seduced a German scholar on a trip to Spain. Did Nabokov know this first Lolita? To what extent was he inspired by it?"
+    },
+    {
+      "id": 32,
+      "title": "Щаслива суперниця",
+      "genre": "Любовные_романы",
+      "autor": "Вилар Симона",
+      "language": "Украинский",
+      "description": "Які асоціації виникають у вас, коли чуєте вислів: «Життя — це боротьба»?\nЗа що в цьому світі варто боротися?\nГерої Сімони Вілар вкотре доводять, що боротися варто лише за кохання.\nВи в цьому переконалися, коли читали першу частину драматичної оповіді — роман «Сповідь суперниці». І хоча виявилося, що одна з двох непримиренних суперниць виборола головний приз — серце прекрасного лицаря, чи можна її назвати щасливою? Адже ненависть тієї, що програла, росте і шириться, не знаючи меж. Тож боротьба точиться з новою силою. Тепер щасливій суперниці доводиться боротися за власне виживання.\nНапруга зростає з кожною сторінкою. Ми не встигаємо полегшено зітхнути, коли героїні вдається вистояти в черговому смертельному поєдинку, як на неї чекає нове випробування — страшніше за попереднє.\nІ коли дочитуємо до кінця, зітхаємо: «І справді, життя — це боротьба… Та яка ж тяжка!»\nАле виграє не той, хто сильніший, а в кому більше мужності й людяності. Це довела тендітна, але незламна героїня нового роману Сімони Вілар."
+    },
+    {
+      "id": 33,
+      "title": "Не плач, кохана!",
+      "genre": "Любовные_романы",
+      "autor": "Ремени Ник",
+      "language": "Украинский",
+      "description": "Українці Іван Чуб і Валера Кулінар відбувають покарання в одному із таборів Сибіру. Попри лютий холод, численні травми під час рубки лісу, герої роблять все, щоб вирватися з неволі.\nШлях до мети нестерпний: фізичні і душевні випробування, здавалося б, зведуть нанівець ту примарну надію на волю і щастя.\nУ 2017 році роман нагороджений дипломом Міжнародного конкурсу «Коронація слова»."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<section class="cards" >
+    <div class="container" *ngFor="let book of books">
+        <article class="card">
+            <div class="content">
+                <div class="title">
+                    <h3>{{book.title }}</h3>
+                </div>               
+                <div class="body-card">
+                    <p>Жанр: {{book.genre}}</p>
+                </div>
+                <div class="body-card">
+                    <p>Автор: {{book.autor}}</p>
+                </div>
+                <div class="body-card">
+                    <p>Язык: {{book.language}}</p>
+                </div>
+                <div class="body-card">Описание: </div>
+                <div class="description">
+                    <p>{{book.description}}</p>
+                </div>
+                <div class="add-to-links">
+                    <input type="image" class="pen" src="https://img.icons8.com/metro/26/000000/download.png" title="Скачать" (click)="saveBook()">
+                    <input type="image" class="trash" src="https://img.icons8.com/material-outlined/24/000000/add-trash.png" title="Удалить" (click)="deleteBook(book)">   
+                </div> 
+            </div>     
+        </article>
+    </div>
+</section>
+<input type="image" class="addButton" src="https://img.icons8.com/ios/50/000000/add.png"  routerLinkActive="active" routerLink='/add'>
+
+    
+ 

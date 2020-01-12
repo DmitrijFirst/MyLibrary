@@ -1,0 +1,43 @@
+
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport
+      [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+      [mode]="(isHandset$ | async) ? 'over' : 'side'"
+      [opened]="(isHandset$ | async) === false">
+    <mat-toolbar>Menu</mat-toolbar>
+    <div class="dropdown">
+      <button class="dropbtn">Жанры</button>
+        <div class="dropdown-content">
+          <a routerLinkActive="active" routerLink='/detective'>Детективы</a>
+          <a routerLinkActive="active" routerLink='/horror'>Ужасы, Мистика</a>
+          <a routerLinkActive="active" routerLink='/fantastic'>Фантастика</a>
+          <a routerLinkActive="active" routerLink='/adventure'>Приключения</a>
+          <a routerLinkActive="active" routerLink='/business'>Бизес книги</a>
+          <a routerLinkActive="active" routerLink='/love-affairs'>Любовные романы</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Язык книги</button>
+        <div class="dropdown-content">
+          <a routerLinkActive="active" routerLink='/russian-books'>Русский</a>
+          <a routerLinkActive="active" routerLink='/ukranian-books'>Украинский</a>
+          <a routerLinkActive="active" routerLink='/english-books'>Английский</a>
+        </div>
+    </div>
+    <button class="dropbtn" routerLinkActive="active" routerLink='/all'>Все книги</button>
+  </mat-sidenav>
+  <mat-sidenav-content class="mat-toolbar">
+  <mat-toolbar color="primary">
+    <button
+      type="button"
+      aria-label="Toggle sidenav"
+      mat-icon-button
+      (click)="drawer.toggle()"
+      *ngIf="isHandset$ | async">
+      <mat-icon aria-label="Side nav toggle icon"><img class="icon-menu" src="https://img.icons8.com/cotton/64/000000/menu.png"></mat-icon>
+    </button>
+    <img src="https://img.icons8.com/plasticine/100/000000/reading.png">
+    <span routerLinkActive="active" routerLink='/home' class="home-link">MyLibrary</span>
+  </mat-toolbar>
+</mat-sidenav-content>
+</mat-sidenav-container>

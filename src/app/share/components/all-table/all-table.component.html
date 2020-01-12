@@ -1,0 +1,34 @@
+<div class="topnav">
+  <img class="search" src="https://img.icons8.com/bubbles/50/000000/search.png">
+  <input [(ngModel)]="searchText" type="text" placeholder=" Поиск..."> 
+</div> 
+<table>
+  <tr>
+    <th style="width: 10px">№</th>
+    <th>Название
+      <input type="checkbox" id="input" class="stateInput" [(ngModel)]="sortValue" (change)="sortTitle()">
+      <label for="input" class="arrows"></label>
+    </th>
+    <th>Жанр
+        <input type="checkbox" id="genre" class="stateInput" [(ngModel)]="sortGanre" (change)="sortGenre()">
+        <label for="genre" class="arrows"></label>
+    </th>
+    <th>Автор
+      <input type="checkbox" id="autor" class="stateInput" [(ngModel)]="sortAutor" (change)="sortingAutor()">
+      <label for="autor" class="arrows"></label>
+    </th>
+    <th>Язык
+      <input type="checkbox" id="language" class="stateInput" [(ngModel)]="sortLanguage" (change)="sortLang()">
+      <label for="language" class="arrows"></label>
+    </th>
+    <th>Действие</th>
+  </tr>
+  <tr *ngFor="let book of books | bookFilter: {title: searchText, genre: searchText, genre: searchText, autor: searchText};">
+      <td>{{book.id}}</td>
+      <td>{{book.title}}</td>
+      <td>{{book.genre}}</td>
+      <td>{{book.autor}}</td>
+      <td>{{book.language}}</td>
+      <td><input type="image" class="save" src="https://img.icons8.com/metro/26/000000/download.png" title="Скачать" (click)="saveBook()"></td>
+  </tr>
+</table>  

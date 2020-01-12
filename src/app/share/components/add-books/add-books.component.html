@@ -1,0 +1,57 @@
+<div class="container">
+    <form [formGroup]="addForm" novalidate>
+      <h3 class="title">Добавить книгу</h3>
+      <div class="form-control"> 
+        <label for="title">Название книги</label>
+        <input #spy formControlName="title" type="text" id="title" name="title" placeholder="Введите название книги">
+        <div class="alert-danger" *ngIf="addForm.get('title').hasError('required') && addForm.get('title').touched">  
+          <p>Введите название книги</p>
+        </div> 
+      </div> 
+      <div class="form-control">  
+        <label for="autor">Автор</label>
+        <input formControlName="autor" type="text" id="autor" name="autor" placeholder="Введите автора">
+        <div class="alert-danger" *ngIf="addForm.get('autor').hasError('required') && addForm.get('autor').touched">  
+          <p>Введите автора книги</p> 
+        </div>  
+      </div> 
+      <div class="form-control">
+        <label for="language">Язык</label>
+        <select formControlName="language" id="language" name="language">
+          <option selected value="">Выберете язык книги</option>
+          <option value="Русский">Русский</option>
+          <option value="Украинский">Украинский</option>
+          <option value="Английский">Английский</option>
+        </select>
+        <div class="alert-danger" *ngIf="addForm.get('language').hasError('required') && addForm.get('language').touched">  
+          <p>Выберете язык книги</p> 
+        </div>  
+    </div>
+    <div class="form-control">
+        <label for="genre">Жанр</label>
+        <select formControlName="genre" id="genre" name="genre">
+          <option selected value="">Выберете жанр книги</option>
+          <option value="Детективы">Детективы</option>
+          <option value="Ужасы">Ужасы</option>
+          <option value="Фантастика">Фантастика</option>
+          <option value="Приключения">Приключения</option>  
+          <option value="Бизнес_книги">Бизнес-книги</option> 
+          <option value="Любовные_романы">Любовные романы</option>
+        </select>
+        <div class="alert-danger" *ngIf="addForm.get('genre').hasError('required') && addForm.get('genre').touched">  
+          <p>Выберете жанр книги</p> 
+        </div>  
+    </div>
+    <div class="form-control">
+      <label for="description">Аннотация</label>
+      <textarea formControlName="description" id="description" name="description" placeholder="Введите аннотацию к книге" style="height:100px"></textarea>
+      <div class="alert-danger" *ngIf="addForm.get('description').hasError('required') && addForm.get('description').touched">  
+        <p>Укажите аннотацию к книге, не менее 10 символов</p>   
+      </div>
+    </div> 
+    <div class="clearfix">
+      <button type="button" class="cancelbtn" routerLinkActive="active" routerLink='/home'>Отмена</button>
+      <button type="submit" class="signupbtn" (click)="addBook()">Отправить</button>
+    </div>
+  </form>
+</div> 
